@@ -1,0 +1,835 @@
+Joel Ortiz 0:03 Do you think the the biggest item on our list was the check in appointments with which is coming out with this summer release, right?
+
+Tammy Svedin started transcription
+
+Sherilyn Giauque 0:09 Right.
+
+Joel Ortiz 0:09 That was a big win for us because as far as us working through no shows and cancellations are workflow is a bit different in the sense that since 90% of it is telehealth, we're not. Our providers are not handing off the patient to a front office staff. They're basically scheduling the follow up appointment. They're entering their own no shows and cancellation fees and so on and so forth. But up to now, the only recourse for them was to log into the PM, uncheck or check it.
+
+Sherilyn Giauque 0:44 Don't do it.
+
+Joel Ortiz 0:46 You know, depending on if, for example they made a mistake, they have to go into the PM, uncheck that, enter the charge codes, enter the notes, then recheck it. It was a very cumbersome workflow, so the fact that they can now do that directly within the EHR is a huge win. So we're kind of excited for that one.
+
+Umm, now in terms of the other three items, notes, eligibility and forms, I would say notes not a huge priority, not a game changer is is it's not gonna revolutionize our workflow eligibility. It's a nice to have because of the fact that if we're confirming appointments the day before and we're, you know, that's a real nice one, there's one less click you don't have to see and look for the red or green eligibility check mark, kind of just it's there, right?
+
+Sherilyn Giauque 1:36 OK.
+
+Joel Ortiz 1:37 So in terms of reducing clicks, I'm all for it. That's great. Not sure how big of an of a priority that would be or how revolutionary that would be from a workflow perspective. Now the forms out of the three is probably the bigger priority. Umm, but there's a caveat to that, right. So obviously we have the other SOW that we've been working on regarding the credit card on file, the requirement of gate patient gate forms gating, whatever we want to call that and so on and so forth. If we were to implement forms gating the right way, this wouldn't even the the the necessity to have that on the provider list view goes way down, right?
+
+Sherilyn Giauque 2:19 OK.
+
+Joel Ortiz 2:20 Because at that point we, the the patient, can't enter the visit regardless until they sign off on those consents. Right. Or those clinical screenings, whatever it is that we send them, there is a gating process from a telehealth perspective. So not a big deal. Umm. So that's where I'm kind of at with the forms.
+
+It's a nice to have, but if we were to prioritize things, I would much rather you guys prioritize patients forms gaining right. That would be the number one for me.
+
+Sherilyn Giauque 2:50 OK. So let me, OK.
+
+Joel Ortiz 2:54 One thing I will say to to kind of and it's loosely related to all of this, but it kind of just came up during we're revamping all of our educational material. We've got user guides for our providers, our intake coordinators, our front office users and so on and so forth. And what came up which and we've known about this for a while, I'm sure you guys are aware is the requirement of the provider or someone to have to go in and validate that the consent forms were. Received for XY and Z. You know what I'm talking about for the CIA to come in and and so on and so forth. In a perfect world, we'd like to be able to have that automatically update when they signed the consent form right there.
+
+Sherilyn Giauque 3:36 Based on OK, that form, it's crazy.
+
+Joel Ortiz 3:39 There there was some logic that would link the two it that would reduce a lot of clicks, right? I'm always thinking about clicks, right?
+
+Sherilyn Giauque 3:46 OK. Yeah.
+
+Joel Ortiz 3:47 If we're talking about reducing clicks, you're reducing 1234 maybe 5 clicks, right? Or actually, no, sorry.
+
+You're reducing way more than that because you first have to validate whether or not the consent form is there, then go back into the ciie, then click that you obtained it, and then so on and so forth. So you're probably eliminating somewhere around 10 clicks, right? Or more at that point, because you there is a lot of back and forth that you have to do to validate that those things are there and so on and so forth.
+
+Sherilyn Giauque 4:10 OK.
+
+Joel Ortiz 4:16 And there's also a liability kind of aspect to this that someone could easily go in and say that they obtained the forms or they they obtain the consents.
+
+Sherilyn Giauque 4:16 Is it?
+
+Joel Ortiz 4:27 But in fact, the consent forms aren't even there. Umm. So for us, from me, from me, behavioral health and perspective, it's even more of a liability just because of the the nature of our patient population.
+
+Sherilyn Giauque 4:40 Great.
+
+Joel Ortiz 4:41 But again, that's loosely related to the forms conversation and I kind of wanted to bring it up to see if anybody's ever brought it up and that from that aspect.
+
+Sherilyn Giauque 4:50 So I know it was brought up a long time ago. It hasn't been recently, but that I love it cause so when you say forms and I can see that having the count there might have some value. But I really feel like having the work list of forms, so the gating first right don't let
+
+him in if they haven't done it. But then let me work on the ones that I see that need, you know, let me just take and tackle those.
+
+Joel Ortiz 5:18 Yeah.
+
+Sherilyn Giauque 5:18 But I want to do more than just see the count of how many are complete. So OK, one question that I have is when you talk about that consent form for CI, is there just one standard in your mind or is it based on the kinds of appointments are coming in for, would they have different CI, you know at different consensus that we needed to track?
+
+Joel Ortiz 5:39 It would have to be where in your in your consensus builder or your forms builder for consents. You're able to say this form pertains to this confirmation from a logic perspective, so that it can check that off automatically.
+
+Sherilyn Giauque 5:48 Also.
+
+Joel Ortiz 5:56 So you'd have to be able to build some sort of a checkbox that links one to the other and then to answer your question, it's only for in our case it's only for prescribers. Therapists aren't gonna be bringing them in. Umm. So any appointments that are with an actual prescriber, our our workflow or general workflow is to is to have the prescriber or the front office coordinator go in and validate that for them.
+
+Sherilyn Giauque 6:20 Preparing this.
+
+Joel Ortiz 6:24 Umm. Is that kind of event enter the question?
+
+Sherilyn Giauque 6:25 OK. Yeah. So I'm trying to think of it just as to me, I'm seeing if I've got a certain appointment type. So, you know, I know it's with a not a therapist but or I don't know which one prescribes and which one doesn't. So I think they're just don't, but I could be wrong. It's achiase would right? So if if the visit is a psychiatrist type of visit, what consent has to be there to to make that an acceptable move forward visit right?
+
+Joel Ortiz 6:46 Yes. Right.
+
+Sherilyn Giauque 6:57 So at the appointment type level is where I kind of see that we would try to drive that, but I wanted to see if that was your thought too or if there's a different if it's just anytime it's an appointment with a certain provider type, that's what you get, you can go away.
+
+Joel Ortiz 7:04 Umm. I had no I would I so.
+
+Sherilyn Giauque 7:14 Now I just want to get it right so.
+
+Joel Ortiz 7:18
+
+Yeah. So I would say that it shouldn't have anything to do with appointment type it it shouldn't because those consent forms you're gonna attach the right consent forms to the right appointment type regardless, right? It should be done at the consent form level, not at the appointment type level. Umm.
+
+Sherilyn Giauque 7:35 What? What I'm saying is, at the consent consent form, you would say this is a consent form, right? But then how do I know which appoint which appointments which visits, need a consent or and which ones don't? Like, what's the trigger for saying? Ohh, I'm missing the consent for the this prescriber, but I don't if they don't. If they're not seeing a prescriber, I don't need it. So the thing I can think of is appointment type or I'm being seen by a certain type of provider. So which would it be? That would be OK, OK.
+
+Joel Ortiz 8:11 I guess at the appointment type I wouldn't do it by by provider type. I would do it by appointment type. If I had to, I guess my mind looks at a little bit, looks at it a little bit differently.
+
+Sherilyn Giauque 8:24 OK, so tell me how you're looking at it. So I can.
+
+Joel Ortiz 8:26 Because if if I could draw like a a Vizio of my mind, it would. When you go and let me just go into MD, it'll be easier. Wait a minute. This patient. Because those CID consent forms that we're looking at are not situational meaning
+
+and I don't think you have to renew them, it's just you just have to have one on file for the patient in order for for you to kind of uh be able to bring in and share, right. So you're bringing in medications from the HIE health Information exchange and then you're able to share the medications from yours to.
+
+Sherilyn Giauque 9:34 Oh oh. So it would be where you do the check box.
+
+Joel Ortiz 9:41 Correct.
+
+Sherilyn Giauque 9:41 It would look for that consent form.
+
+Joel Ortiz 9:45 Exactly.
+
+Sherilyn Giauque 9:45 Not OK. And that's the see, I was missing that part. I needed you to help me take my brain there.
+
+Joel Ortiz 9:51 No, that that's fine.
+
+Sherilyn Giauque 9:51 So that's good.
+
+Joel Ortiz 9:53 That's fine, perfectly fine.
+
+Sherilyn Giauque 9:54 Yeah. So.
+
+Joel Ortiz 10:02 Exactly.
+
+Sherilyn Giauque 10:02 We have to go check, but if they don't have the consent it would say you don't have this consent.
+
+Joel Ortiz 10:04 So if I'm not just thinking, yeah.
+
+Sherilyn Giauque 10:08 You can't move forward, OK?
+
+Joel Ortiz 10:09 Exactly. So this right here prevents really us from you fully utilizing PCI E most of the time we're, you know, most providers don't wanna go through the hassle of having to go in and out. They wait for the front office coordinators to do it. Sometimes they forget and it's just an extra layer in my mind at the consent form level when we're building the consent forms. If there's a check box that says this is the patient consent Med history. This is the consent to share data and this is the consent to share data and HIES. Sometimes that'll all be in one consent form, right?
+
+Sherilyn Giauque 10:42 Got it. Right out so.
+
+Joel Ortiz 10:47 Sometimes it'll be in different in different consent forms. That makes sense.
+
+Sherilyn Giauque 10:54
+
+Yes, absolutely. Makes sense.
+
+Joel Ortiz 10:56 OK.
+
+Sherilyn Giauque 10:56 I'm completely with you now, so.
+
+Joel Ortiz 10:57 Well, but yeah, that, that's that's more or less the the the by train of thought from that one.
+
+Sherilyn Giauque 11:05 Need him to.
+
+Joel Ortiz 11:07 That's why I didn't think it was gonna be necessary to do it by the appointment type or anything of that nature, because it it doesn't have anything to do with those.
+
+Sherilyn Giauque 11:13 Yeah, I. And when I first heard you talking about it, I was thinking we were saying umm for each visit we needed it. But you're just. I get it now completely on the same page and it just the ability to mark it as which consent form.
+
+Joel Ortiz 11:22 Yeah.
+
+Sherilyn Giauque 11:28 Am I looking for and even on that screen where it says not obtained or it could have a date of obtained right? So you could see.
+
+Ohh I've had this in place for seven years. Where it only has its in place for two months, right?
+
+Joel Ortiz 11:40 Like right?
+
+Sherilyn Giauque 11:41 OK, got it.
+
+Joel Ortiz 11:44 Yeah. So that's why in my mind having that forms column and again this is loosely tied, they're not really the same thing, but having that forms column isn't at the top of my list. If I had, you know if it was a A wish list, that would be the patient forms gating because that takes care of 90% of our business. But that might not be the case for other individuals who 90% of their business is in office, right? They might still think it's really nice to have that forms column on the right hand side, letting them know that. Hey, you've got four out of your five consent forms or or clinical screenings. I don't know what that's gonna contain. If it's gonna be both, but you're missing 2 out of two out of five, right, or whatever, that may look like.
+
+Sherilyn Giauque 12:27 Yeah, I think that the trickiest part for me is that column just just informational and I want it to be something I can go take action on or like you said, make it automatically. You know, do something for me so that I don't have to go and and do extra steps. O the column is kind of informational and it's OK there, but I really feel like let's figure out how to make it useful.
+
+Joel Ortiz 12:48
+
+Right. Right.
+
+Sherilyn Giauque 12:57 Let's let it make let's let it take actions for us or or drive us to action instead of just be informational. So.
+
+Joel Ortiz 13:03 Yeah. Yeah, I mean, I'm. I'm all for it. I'm.
+
+Sherilyn Giauque 13:09 OK.
+
+Joel Ortiz 13:09 I'm think that's that would be a good approach.
+
+Sherilyn Giauque 13:14 Awesome. OK, so I feel like I'm and we already have the forms gating in the, it's slated already. It's got a spot. It's moving right.
+
+Joel Ortiz 13:25 OK.
+
+Sherilyn Giauque 13:25 I just wanted to figure out what what the priority of these other items were so I knew how hard to push to make space for them and I feel like there's some other things that maybe would have more value.
+
+Joel Ortiz 13:37 Yeah.
+
+Yeah. And I I wanna call on the forums meeting and I've said this before and I think Jenny has said it before, if we and I and I think when I met for the telehealth revamp, I'm not sure who I meant with, but it took some screenshots when I met for the telehealth revamp, the consent forms were gonna function in a way where you can either accept a consent or deny a consent. Umm instead of them signing by hand, you're either accepting or denying, which would further streamline things in my mind because again, we've had patients who are mentally ill who have said screw you or I'm not signing this in the signature pad. Right. And it just it doesn't.
+
+Sherilyn Giauque 14:19 Umm.
+
+Joel Ortiz 14:20 You know, that's that makes us highly paranoid because we don't know which consents are valid or not. So then it puts us in a mode of well, in order to cover ourselves from a liability standpoint, now we've got laid eyes on all of our consent forms. That's super time consuming for front office.
+
+Sherilyn Giauque 14:38 Yeah. So what we're looking at doing is having an an accept or decline radio button and you gotta pick except or if you decline then it would report it as a declined and then what I want and I'm working hard to get this is that they actually have to type their name in the box and you know we can show them.
+
+Joel Ortiz 14:44 Yes, yes. Right. OK.
+
+Sherilyn Giauque 15:01 Here's your name, but they've gotta type it in to make it match so that you know it.
+
+Joel Ortiz 15:02 Umm. OK, I like that, yeah.
+
+Sherilyn Giauque 15:07 It's a valid it's a valid. I checked the radio button of except and I typed my name in here and by doing that I'm accepting.
+
+Joel Ortiz 15:14 Yeah, now.
+
+Sherilyn Giauque 15:16 Umm, because then you could easily say is it accepted and did they type their name in what you know and it wouldn't be up to them.
+
+Joel Ortiz 15:23 They have no excuse to say that. Ohh I didn't. I didn't even know that I clicked accept or or something like that, so yeah.
+
+Sherilyn Giauque 15:28 Right. Because they actually had to take the action to type their name in that that says and you'd have a little blurb that says by typing my name in here I'm accepting.
+
+Joel Ortiz 15:33 Makes sense?
+
+Sherilyn Giauque 15:38 You know that would be the extra step of that.
+
+Joel Ortiz 15:39 Yeah, I went.
+
+Sherilyn Giauque 15:40 But so that's the.
+
+Joel Ortiz 15:42 If I were to do it, I would ask them to type their name and after they accept or deny because if they do it before, they can easily come up with the excuse of.
+
+Sherilyn Giauque 15:47 Right. So you have the radio.
+
+Joel Ortiz 15:52 Ohh yeah, I type my name and but I clicked the wrong button. I meant the click XY and Z right?
+
+Sherilyn Giauque 15:55 Yeah. Yep, it would be accept or decline and then once the radio button is selected then there the the field becomes active to type your name in.
+
+Joel Ortiz 16:06 OK, OK. I like that and would that be like a secondary phase or would that come out with phase like forms gating?
+
+Sherilyn Giauque 16:09 Yeah.
+
+Joel Ortiz 16:16 What would that look like?
+
+Sherilyn Giauque 16:16 Umm, I'm working on getting it included in the requirements. Umm, I haven't gotten a commitment yet, so I'm telling you I'm working on it, but I don't have a final commitment from the team, but I just see if we're really gonna auto accept and trust that we have consent and we're gonna base stuff on that.
+
+Joel Ortiz 16:21 OK. Yeah.
+
+Sherilyn Giauque 16:38 We've gotta have a way that we can trust the consent, because otherwise you're still manually looking at all of them.
+
+Joel Ortiz 16:41 Yeah.
+
+Sherilyn Giauque 16:43 And that's just you're not getting anywhere.
+
+Joel Ortiz 16:46 Yeah.
+
+Sherilyn Giauque 16:46 So again, definitely that's my, that's my goal on that one.
+
+Joel Ortiz 16:51 I'm trying to remember. There was a reason why we didn't. Ohh. That was. Yeah, that was the exact reason why we didn't use the auto acceptance forms. It was great. We wanted it, but once we had it, then we're like, oh crap. You know, there's this new new issue that we found.
+
+We can't auto accept because there's no guarantee that they actually accept it. So this would solve that. This would almost completely eliminate the patient forms. Workflow that we currently have for telehealth maybe not for in office, but definitely for telehealth. Umm. Which would make it much more streamlined. I mean it. Wouldn't I?
+
+Sherilyn Giauque 17:33 Yeah.
+
+Joel Ortiz 17:33 How many minutes? I wouldn't even be able to calculate the clicks on that one, but.
+
+Sherilyn Giauque 17:36 Yeah, that would be good. So I feel like even in office if you have those all completed before you know they get there and you just say ohh you're done. You know, they're all accepted.
+
+Joel Ortiz 17:46 Yeah.
+
+Sherilyn Giauque 17:47 Life is good. You spend a lot less time with them up front, so I think it's definitely a benefit to telehealth and the gating, but it's also going to be a benefit to the visit.
+
+Tammy Svedin 17:57 Because that could be done through kiosk too, right, Charlie?
+
+Sherilyn Giauque 17:57
+
+So yeah, it could be we could have them go complete them in the kiosk if they didn't have them done, but also if they do have them done, it just says they're ready to go and you just move them right along, right.
+
+Joel Ortiz 18:03 Yeah, yeah.
+
+Sherilyn Giauque 18:11 So I think there's benefit on both sides, but yeah.
+
+Joel Ortiz 18:11 Yeah. Yeah, I think we would. We would probably have. Once that's done, we'd probably have a kiosk at error. Every office at that point, to be completely honest, because we've been, they've been asking for for a kiosk and every at every office for now. And we haven't been able to justify it, but I think at that point again it's it's dummy proof it if if it's OK to call it that umm and and that's what we would you know that's that's probably what we would do at that point.
+
+Sherilyn Giauque 18:35 Yeah. OK.
+
+Joel Ortiz 18:41 So are we having another call in regards to the other SOW is if I remember correctly you scheduled something, right, OK.
+
+Tammy Svedin 18:46 That's that's the stakeholders. Yeah. So the first stakeholders on that I think is June, the first week of June, I think, uh, yeah, on the 7th is when we're doing that to go through the requirements on the
+
+copay, the three of them though, not the gating, but the other three copay and the other two and.
+
+Joel Ortiz 19:06 Yeah, credit card copay and well credit card and copay are kind of loosely tied together form skating and then insurance and demographics verification, yeah.
+
+Tammy Svedin 19:17 The interns and demographics, so those are the three and then forms gating we won't be covering in these just simply because they're in a different release. But this is for the Libra stuff.
+
+Joel Ortiz 19:24 Right, right.
+
+Tammy Svedin 19:26 Yeah. And that's why I went ahead and scheduled for June 7th. And then we're gonna have one already scheduled in July and one already scheduled in August. So that way we've got those stakeholders put together and then of course, if there's anything in between, what coordinate that as well, but.
+
+Joel Ortiz 19:37 Yeah. Yeah, I think something that that Jenny is well, I've been pushing for it. No one has really seen this as a priority. Umm, but Jenny has finally bought into into my vision right now in AMD and and I think I've mentioned this before. Patient statuses. They don't serve where they don't help us serve. They don't help us reinforce our policies and procedures or our standard operating procedures in in our, in our job, right.
+
+Sherilyn Giauque 20:06 Yep.
+
+Joel Ortiz 20:12 So if we place a patient in collections, providers are still able to schedule a new appointments. They're still able to do pretty much whatever they like to do with that patient, regardless of whether or not we place them in connection. So it's kind of a soft stop. If that instead of a hard stop, umm.
+
+Sherilyn Giauque 20:33 Yeah, because it brings up a message, but they can go past it.
+
+Joel Ortiz 20:37 They can. They can. They can override that message and and we have really nothing.
+
+Sherilyn Giauque 20:39 Yeah.
+
+Joel Ortiz 20:42 Nothing that there's really nothing that we can do about it. We're looking at revamping our contracts with our physicians and putting new Sops into place to just make things a bit more secure so that we don't. We're not constantly servicing patients who are in deep collections, but we're not able to really do anything about it, right? Providers are still able to bypass that and and instead we have our regional operation, operating managers and our RMD's. Monitoring all of this through a DOMO report and slapping them on the wrist, and then they do it again. And then so on and so forth.
+
+It's it's a really messy. Workflow right now.
+
+Sherilyn Giauque 21:23 So.
+
+Joel Ortiz 21:24 So I think Jenny's probably gonna bring that up. It doesn't have anything to do with copays or credit card on file, but at the same time it kind of does, right? It's it's very loosely tied into our workflows, so that that's that's probably something she's gonna bring up and and seeing if if there's anything that we can do and and it doesn't seem like a hard implement like a hard thing to develop because it's a privilege, right? The end of the day, we might be able to codify it so that it's a privilege that we can give certain users and not give certain users so that only certain users have the ability to bypass those statuses. But yeah, just wanted to bring that one up.
+
+Sherilyn Giauque 22:04 So today we have a an override pin that can be given to certain users. So in the scheduler they can do certain actions.
+
+Joel Ortiz 22:10 OK. Yes, I've seen that. Yep.
+
+Sherilyn Giauque 22:14 Umm, yeah, so if we could just tie that same thing of don't don't let them schedule a collection patients unless they put the override pin in. But then you know, there's always this. Well, what if someone shares their override pin and then people just you, so that was one way that we came up with a long time ago that that clients asked for specifically.
+
+Joel Ortiz 22:32 Yeah.
+
+Sherilyn Giauque 22:39 But I guess so because The thing is a lot of times you already got someone who's got the slot ready to schedule, right? And that message pops up. And they're like, oh, crap. So that's where the go put an override pin in.
+
+Joel Ortiz 22:49 Yeah.
+
+Sherilyn Giauque 22:52 You just have to be very your people have to be very diligent about not sharing that, but and it doesn't work as well for you because the providers, the one scheduling. So what do they do? They.
+
+Joel Ortiz 23:03 We again, we don't have a way to stop them from doing that, right?
+
+Sherilyn Giauque 23:05 Right.
+
+Joel Ortiz 23:06 It's it's right if they were stopped, they would have to.
+
+Sherilyn Giauque 23:06 But if they were stopped and so then do they send?
+
+Joel Ortiz 23:11 They would have to go to their ROM, their regional operation operating manager or their Regional Medical director and ask for an override or or something of that nature, right.
+
+We would put in a workflow that would like an escalation path for them, but the goal is for them not to be able to schedule a patient with someone who's in collections after a certain amount, right?
+
+Sherilyn Giauque 23:23 So.
+
+Joel Ortiz 23:34 If a patient has $2000 in collections and RCM goes ahead and places that patient in a collections status, we don't want them to continue to service that patient because they're just ramping up more and more debt, right?
+
+Sherilyn Giauque 23:34 OK.
+
+Joel Ortiz 23:48 It doesn't make sense.
+
+Sherilyn Giauque 23:48 Right, right.
+
+Joel Ortiz 23:50 Uh, and it will. It'll.
+
+Sherilyn Giauque 23:51 So in your.
+
+Joel Ortiz 23:53 Well, the reason why I would think it's a privilege that we would give to certain roles is because the RMD. If if the patient is is acute enough and severe enough in the deep depression or in some sort of a crisis management situation, then he would override that and schedule an emergency visit with that patient so that he can hand that patient off to another provider that's willing to take him. You know.
+
+Umm so that so they're always needs to be that exception to the rule. But yeah.
+
+Sherilyn Giauque 24:24 And so that what I'm thinking is in your case, the privilege really does work better than the override pin because you don't have someone standing there by them. They're basically saying ohh I'm sorry.
+
+Joel Ortiz 24:33 Yes.
+
+Sherilyn Giauque 24:35 I'm gonna have to have someone call you back, and then they call and get the person to say yes.
+
+Joel Ortiz 24:37 Yeah.
+
+Sherilyn Giauque 24:40 We'll go ahead and schedule them. Go ahead and and I'll call him and get them on the calendar, right?
+
+Joel Ortiz 24:46 Pretty much, yeah, but that would be the that would be the ideal workflow, yeah.
+
+Sherilyn Giauque 24:48 Yeah. So yeah, so it because if you have the override pin and you were on the phone with them, they you'd have to tell him what to type in. So that wouldn't work anyway. So yeah, OK, that that helps.
+
+Joel Ortiz 24:58 Yeah, no.
+
+Sherilyn Giauque 25:00 That's good cause.
+
+Tammy Svedin 25:00 And once you get it to them, they'll be overriding every time.
+
+Joel Ortiz 25:04 Right.
+
+Sherilyn Giauque 25:04 Yeah.
+
+Joel Ortiz 25:04 Yeah.
+
+Sherilyn Giauque 25:04 No, that's the thing.
+
+Joel Ortiz 25:04 Then you then you're done.
+
+Sherilyn Giauque 25:05 It maybe we wouldn't work.
+
+Tammy Svedin 25:05 They're like, thanks for the pin.
+
+Joel Ortiz 25:06 That's it. And it kind of gives them an excuse, right, the RMD at this point doesn't feel guilty. Ohh no, I should have given him the override PIN. No, it's it's controlled by us. You know the informatics team placed very hard restrictions on on what our workflow is and and that's it, you've got to follow it.
+
+Umm but yeah, because I know that Jenny's really torn on right now with copays versus outstanding balance versus deductible.
+
+Sherilyn Giauque 25:26 It.
+
+Joel Ortiz 25:33 Umm, that, that's that's gonna be a a tricky one. I don't think that even Jenny knows exactly what she wants yet, which is the hard part in my mind. I think I know what I would do right. I think the copay is a fantastic start and then also being able to set specific. Either payment plans or set specific outstanding, or at least give them the ability to pay an outstanding balance. That would be fantastic, but I know that Jenny, again, she's still very much back and forth on this. Yeah.
+
+Sherilyn Giauque 26:06 Yeah. So there's a couple of things.
+
+Joel Ortiz 26:08 We wait one.
+
+Sherilyn Giauque 26:10 One is that umm you require the card on file right?
+
+Joel Ortiz 26:15 Correct.
+
+Sherilyn Giauque 26:16 And then the day that the balance is is owed you run state, you run card on file every day. Any balance that showed up today, I'm going to go process it or if you get the when
+
+we get the I'm going to text out and say in two days your card's gonna be. Although I could see somebody taking all the money out of the account so that they wouldn't get their card. You know, I like.
+
+Joel Ortiz 26:36 Yeah.
+
+Sherilyn Giauque 26:37 Do you wanna warn them or not? Some people say yes, some people say no, but anyway. So that's the one way is like get the card on file and just have an understanding that as soon as you have a balance, I'm gonna take your card on file. Umm, the second one there was a second one. I know there was as we were talking through it, I can't think right now. So it'll come back in like 2 minutes but.
+
+Joel Ortiz 27:02 What was it at resident regards to outstanding balances or deductibles? What was are you in? No.
+
+Sherilyn Giauque 27:09 Well, it was something else you said, because I think the card on file will cover, you know, oh, I know it was payment plans.
+
+Joel Ortiz 27:14 A lot. Yeah, but yes.
+
+Sherilyn Giauque 27:17 So we have this beautiful design for payment plans. We just have to get advanced MD Pay devices. That device problem is put everything a little bit behind, which I'm just like, oh, I know that I can't.
+
+Joel Ortiz 27:30 Yeah.
+
+Sherilyn Giauque 27:32 What is our device?
+
+Tammy Svedin 27:38 That.
+
+Sherilyn Giauque 27:39 Driving in. If that hadn't happened, we'd be well past. We'd have this other thing done already, but anyway, that's that's just a reason.
+
+Joel Ortiz 27:45 Right.
+
+Sherilyn Giauque 27:46 But so we have this whole thing about payment plan and it is you can set it up to take the whole balance. You can set it up to take a certain amount of month. You can on this day or three times a month I'm going to charge your card or whatever, and it automatically says, oh, it's the 10th.
+
+Joel Ortiz 27:56 Yeah.
+
+Sherilyn Giauque 28:02 Go charge this card. This money, right? Umm.
+
+Joel Ortiz 28:05 Right.
+
+Sherilyn Giauque 28:06 And it it just is automated and you don't have to think about it. So that's the other part about, you know, maybe we can't get all their balance right now, but we could get it. So I had a question for you then I know collections is the one you're saying. Stop them. Don't let them schedule appointments. One of the things that's happened with the status is and we've had this on our backlog for a very long time, but every time we look at it, it's well, do you wanna send statements? Because if they're deceased, do you continue to send statements, you're not gonna schedule? Umm.
+
+Joel Ortiz 28:37 Right.
+
+Sherilyn Giauque 28:39 And so it always gets bigger because we're like, well, don't let him do this. Don't let him do that, but let him do this and give him the options. And so it gets really big if I brought it back down and said I needed a way to say this one in collections and the only thing that's going to do is not let me schedule, umm, this one has a credit card that failed. So now I no longer have a valid credit card, so don't let me schedule.
+
+Joel Ortiz 29:02 Yeah.
+
+Sherilyn Giauque 29:05 Don't worry about anything else about Umm can I should I stand statements or should I be doing anything? Just let these inactive statuses trigger. Should I schedule or not?
+
+Joel Ortiz 29:19 Yeah, yeah.
+
+Sherilyn Giauque 29:19 Do you see value with that piece of it?
+
+Joel Ortiz 29:22 I mean that would that would solve one of our biggest issues right now, which is again not being able to put a standard operating procedure around it because we can enforce it.
+
+Sherilyn Giauque 29:30 OK.
+
+Joel Ortiz 29:31 So if if we were at the very least able to get that that minimum requirement down packed and we were gonna get that rolled out, I think Jenny would would jump at the chance to to get that up in our in our environment. Umm.
+
+Sherilyn Giauque 29:45 And so really tying just a permission to that message that says, hey, this patients in collections, if they don't have permission, they can't, they just says sorry and they can't you know they have to then make the phone call that would probably be a huge win for you guys.
+
+Joel Ortiz 29:59 Yeah. Yeah. Yeah, that'd be a big win.
+
+Sherilyn Giauque 30:05 Yeah. OK.
+
+Joel Ortiz 30:07 Be a big win for sure.
+
+Tammy Svedin 30:08 And Sherilyn that would be something that we would also it would be controlled somehow on a default, whether or not the client would want to stop those appointments or not, right?
+
+Sherilyn Giauque 30:17 Well, it would be at a permission level. Can I schedule patients in collections or in inactive status and they can name the inactive status as whatever they want?
+
+Tammy Svedin 30:27 OK.
+
+Joel Ortiz 30:28 Yeah.
+
+Sherilyn Giauque 30:28 Umm, but if you don't wanna stop anybody and you want them to always be able to schedule but get the warning, then you would give them all the permission.
+
+Tammy Svedin 30:35 OK.
+
+Sherilyn Giauque 30:36 If you want to stop it, then you don't give them the permission.
+
+Tammy Svedin 30:39 Right. I could just see some clients may not want to stop where others will, right?
+
+Joel Ortiz 30:40 Right.
+
+Sherilyn Giauque 30:40 So then there's not. Yeah.
+
+Joel Ortiz 30:44 Right.
+
+Sherilyn Giauque 30:44 So then there's not a lot of setup, yeah.
+
+Joel Ortiz 30:44 Yeah, that's why I had the privilege level. It works quite well, like if you just do it at by permissions instead of.
+
+Tammy Svedin 30:47 Right.
+
+Joel Ortiz 30:49 My code works pretty good.
+
+Sherilyn Giauque 30:50 Yep, yeah.
+
+Joel Ortiz 30:55 I think we were testing this out last week. Are we able to block people from from scheduling overhead and blocks? Yes, right. I remember seeing that in we can we can easily remove the permission to schedule over holder of luck. Right?
+
+Tammy Svedin 31:08 Yeah.
+
+Sherilyn Giauque 31:08 Yes, and that's it.
+
+Joel Ortiz 31:08 OK, just making sure.
+
+Sherilyn Giauque 31:09 That's where the override PIN comes in.
+
+Joel Ortiz 31:12 But we're not able to. We're not able to control which holds. They can schedule over versus, which they could, right? It's an all or nothing type of thing. Right?
+
+Sherilyn Giauque 31:21 I think it's all or nothing, yes.
+
+Joel Ortiz 31:22 OK. OK, that's fine. OK, before it before I lose you because I think this is this is my, my, my one chance. I know that we've gone over the scheduler revamp maybe twice or maybe once with you and once with someone else, and I can't remember, but it's still the bane of my existence, both from a usability standpoint and from a training standpoint. We have such a hard time training run office staff on the scheduler view the provider list view, everybody loves, everybody loves the provider list view, but the scheduler view or the column view.
+
+Sherilyn Giauque 31:58 OK.
+
+Joel Ortiz 32:03 Sorry and the scheduler view the fact that there's no way to search. You know, it's not a search bar, it's an actual drop down with groups and columns and so on and so forth. It is debang of my existence. It is.
+
+Sherilyn Giauque 32:20 Tell me what you're trying to search for.
+
+Joel Ortiz 32:20 It is. So. You tell me what's best practice, right I am.
+
+Sherilyn Giauque 32:29 Well, I will tell you that if I'm searching for an appropriate appointment, I'm using the provider matching. I'm not using the columns. And do you even have?
+
+Joel Ortiz 32:42 We don't have it enabled in our environment.
+
+Sherilyn Giauque 32:44 OK. So provider matching let's me say I want Doctor Jones.
+
+Joel Ortiz 32:45 Yeah, well.
+
+Sherilyn Giauque 32:49 I need him for this amount of time and or I'm trying to match them with a new patient and I want to make sure I have the right insurance coverages, you know, all of
+
+that. When I when I worked at an office and I'll tell you it was Ben. It's been a a month or two we have binders I had.
+
+Joel Ortiz 33:04 Right.
+
+Sherilyn Giauque 33:06 It was a group of cardiologists and thoracic surgeons. We had binders. Big, thick 3 inch binders with all the sheets of this doctor can see these people and not these people. And here's how he likes his things done.
+
+Joel Ortiz 33:19 Yeah.
+
+Sherilyn Giauque 33:19 That's what we've done with provider matching is put those rules hopefully into provider matching and so if.
+
+Joel Ortiz 33:27 But here's here's where provider matching doesn't work for us. Or and and I would argue it probably wouldn't work for a lot of offices, right?
+
+Sherilyn Giauque 33:31 OK.
+
+Joel Ortiz 33:35 For example, I have a office in Florida. There's two facilities in as part of that office from one, one of one of the offices supports about 6 providers. The other one supports about five I believe, or maybe 4. If the patient calls me and they say they want, they want to schedule an appointment appointment for tomorrow with all of the providers at your facility, there's really no
+
+easy way to get that beat that view up and running in, in the and the scheduler, right. And again it columns. I still don't understand the necessity for columns. I understand that you may not be able to get rid of columns because it's a legacy. It's legacy data that you might not be able to get rid of, but if we were able to just add something similar to the provider list view where you're able to search for example, I'm able to say I wanna see all of the providers that have visits today at the carry Iowa facility. Boom. I have all of the providers that have visits today here at this facility, or if I it's a sticky setting right? Or if I have the five providers always as a sticky setting always chosen for me and I can jump between the scheduler view and the provider list view, that would be the perfect world. Nobody is utilizing columns the way that you think they're utilizing columns at, at least not in our in our entire organization. This right here groups and columns is the single biggest in the rear that we have from scheduling perspective. So I'm I'm I'm trying to gauge what it is that you guys are gonna be rolling now for the scheduler revamp and figuring out whether or not it's actually gonna fix our the the one the one main issue we have with it, which is the fact that in order for us to find very specific providers, we have to memorize what group they're in and we have to memorize what, uh, column or I'm not sure what these are called, they're in, right?
+
+Sherilyn Giauque 35:28 So just yeah.
+
+Joel Ortiz 35:50 These are individual columns and no one's gonna memorize that, especially in the large key light North Carolina or South Carolina, where we've got literally ten groups and each of them are chalked full to the brim.
+
+Sherilyn Giauque 36:04 For me.
+
+Joel Ortiz 36:04 It makes it very difficult for us, makes it very, very difficult for us.
+
+Sherilyn Giauque 36:06 Right. I want a terrible person. OK, I'm just trying to figure out the page you're on. So I think that the new scheduler is gonna be more like the provider list view where you can pick certain ones to show at the same time. But I need to. I'll tell you, it's been a little while since I've looked at that functionality and the way they're building it, so I'll do a review of that.
+
+Joel Ortiz 36:31 OK. The new provider list view that's coming out in June has different items, right? It's. It has a provider list. View it has a sorry I'll provider column. It has a facility column and I believe it also has a column column, right? The column action here it's got three different ones based on the release notes. That's what I've seen and there are each searchable just like this where. Well, except supposedly, and we'll test it when we get it in the training environment. Supposedly the provider one is searchable. I'm hoping the facility and the column ones are also searchable, but the fact that B is here, these drop down lists are not searchable. It it makes things hard, it makes things really hard.
+
+Sherilyn Giauque 37:13 OK. Yeah.
+
+Joel Ortiz 37:14 It makes things really difficult to navigate, more so from this view than anything else, right?
+
+Sherilyn Giauque 37:16 OK.
+
+Joel Ortiz 37:19 Because you can't schedule from the provider list view the provider list view is beautiful to to, you know, work through your schedule for the day. But when you actually wanna schedule, then you're stuck with this.
+
+Sherilyn Giauque 37:43 All of this.
+
+Joel Ortiz 37:43 Is that in Ohio? And then which subsection is that in? And so on and so forth. I feel for them. I really do it it it's one of their biggest complaints and it's it makes things much lower than it needs to be.
+
+Sherilyn Giauque 37:55 One thing that and I'm just putting, I'm just thinking and I haven't tested this, but I would think you could have a column that doesn't have a A provider selective. Umm, I just don't remember if you can select the provider to come in there. That would be that would be the way to do it, right? Like, let me just have the column and then I'll go figure out who needs to be in them. The ones I'm looking for let me search and pull them in so now I can compare across that whole page. Umm.
+
+Joel Ortiz 38:26 Yeah, cause right now I would say 99% of the columns are assigned to one provider to 1 to 1 matching.
+
+Sherilyn Giauque 38:34 Umm.
+
+Joel Ortiz 38:35 There's it's not like I have a column with four providers on there. That's then.
+
+Sherilyn Giauque 38:39 Right.
+
+Joel Ortiz 38:39 That's the way that we're that we're configuring things.
+
+Sherilyn Giauque 38:41 So the the pages are intended to be that right? Give me this facility. Show me all the providers in this facility. So let me get each facility and then we have groups on top of that when you need more pages. Umm, so I understand what you're saying.
+
+Joel Ortiz 38:56 Yeah. Yeah, it just then.
+
+Sherilyn Giauque 38:59 Let me take that to the to Paul and talk to him about the new scheduler. And then I'm gonna try one thing to to test in the existing functionality that we have in see if I can help with that.
+
+Joel Ortiz 39:13 That just to give you this is what we train front office coordinator. It's just to give you an idea how funny this is, because I I find it hilarious. So.
+
+Sherilyn Giauque 39:18 OK.
+
+Joel Ortiz 39:24 This this right here the the individual schedule or provider view so that we can schedule for a provider even this it's not, it's neither, it's not alphabetical, it's completely at random.
+
+Sherilyn Giauque 39:29 Right.
+
+Joel Ortiz 39:37 I'm thinking it's probably that number. It's probably ordered by that number. If it was alphabetical, at least we could, you know, search for it alphabetically.
+
+Sherilyn Giauque 39:42 I think it's ordered by the code, but yeah.
+
+Joel Ortiz 39:45 It's it's probably done by code, so we've gotta go down and look and search and just look at the list. It's it's.
+
+Sherilyn Giauque 39:51 Yep.
+
+Joel Ortiz 39:52 It's nearly impossible. So the work around that we do is is to press control F, search for the provider right and then yeah, and then we're scrolling through the entire thing.
+
+Sherilyn Giauque 40:00 So you're adding the search in E.
+
+Joel Ortiz 40:06 And and it shows up as yellow.
+
+Sherilyn Giauque 40:06 So it's my right.
+
+Joel Ortiz 40:08 That's horrible. That's a horrible design.
+
+Sherilyn Giauque 40:09 That is horrible. Let me.
+
+Joel Ortiz 40:11 That is horrendous.
+
+Sherilyn Giauque 40:11 I mean, maybe if we could even just get the search in there.
+
+Joel Ortiz 40:16 Oh, my God. Anything. I mean anything would be, would be very much welcome because again, it makes our lives very difficult because we do not utilize the provider matching.
+
+Sherilyn Giauque 40:19 Yeah.
+
+Joel Ortiz 40:28 We will be utilizing the provider matching in the future, but I still don't think that it's gonna. It's gonna solve our problems because ideally when a when a front office coordinator picks up the phone, they're gonna say, OK, let me check to see which of our providers have availability tomorrow and then the perfect world. It just come in here and when they click on the column view it would be a sticky view
+
+that would bring up all of the providers and their scheduled for tomorrow and they would just pick on on whichever one right from from that aspect.
+
+Sherilyn Giauque 40:57 But is that based on facility what I mean?
+
+Joel Ortiz 41:01 It's based off of their sticky view, right? It it could be based off of both if you're if the front office coordinator is working at a facility, we probably base it off from that facility. But if you're front office coordinator is supporting multiple facilities, it probably also want the ability to choose either multiple facilities or a sticky setting of the providers that they normally support, right? Yeah.
+
+Sherilyn Giauque 41:25 Well, that's what I think we should look at the pages and see if we could really figure out a way to get the pages to work for you, because that's how they're intended to work and I'm not sure. I mean, we need to see why.
+
+Joel Ortiz 41:37 Yeah.
+
+Sherilyn Giauque 41:37 So I would love to just watch one of your scheduling coordinators for 1/2 an hour and and see if I can come back with some thoughts for you on that.
+
+Joel Ortiz 41:48 Yeah, I think it's probably because we have offices that are quite large, though we have quite. So if you look at one of our groups. Click you look at one of our groups. One office has 1234 subsections, and that that's.
+
+Sherilyn Giauque 42:08 But if you could.
+
+Joel Ortiz 42:09 That's the maximum amount of providers that you can bring into 111 section that makes sense. So then we had to create multiple subsections.
+
+Sherilyn Giauque 42:15 Right. But yes, So what would I think would be really cool? Of course, we need to see how the new scheduler is doing this because they may already be solving this, but if you could say let me search within the page so have all the providers on a page that.
+
+Joel Ortiz 42:24 Right.
+
+Sherilyn Giauque 42:32 Means they're in that facility, right? And then let me search for the three that I'm looking for. If I wanna pull just those three in or something, I mean, so, yeah, let me let me do some a little bit of research.
+
+Joel Ortiz 42:45 So so explain to me real quick why why we would even need pages and subsections cause or pages and groups whatever you wanna call them. Because how ghost EHR's do it. It so I could bring. I don't really want to bring up that because they're cause I there's actual data in there, but I still support other practices with EPIC. So how Epic does it and even actually how Eclinical works? Does it umm is that they don't have a subsection or group or anything of that nature. When you look at their uh scheduler, you're choosing from a a searchable drop down
+
+list for either the providers that you wanna bring into view or the facilities that you wanted to bring into view, or a hybrid of both. Umm. And it looks very much like like this the the the the drop downs they look just like almost just like this where you can you know pick and choose and so on and so forth. But if you had the option to place a filter for providers and a filter for facility, what would be the need for pages and columns or subsections? You you wouldn't need pages at that point.
+
+Sherilyn Giauque 43:56 I think just to just to already have it. So if I know that these seven providers are always at that facility and those are the ones I look at, I don't have to go select at each time, right? I just go to that page and there they are. So there are grouped.
+
+Joel Ortiz 44:13 But then it would work. It would work just like you're provider list. View your provider list view is a sticky setting, so if I were to choose five providers in the provider list view, log out and log back in, it stays that those five providers. I don't have to go back in and and change them every time.
+
+Sherilyn Giauque 44:26 Right. But if I'm supporting more than one location, then when I.
+
+Joel Ortiz 44:33 Then that's why you have a provider called a provider filter and a facility filter. The facility filter would override the provider filter, so you have the provider filter which you can choose you know providers from a random list of providers that you will that you're supporting or the facility filter that would override your provider filter because it would bring in all providers within those facilities that you clicked on.
+
+Sherilyn Giauque 44:57
+
+Right. So the other thing that, umm, it would do it, it's kind of like when you're doing OB for example, I have the OB and I have the ultrasound, they're on the same page because I need.
+
+Joel Ortiz 45:07 Umm. Right.
+
+Sherilyn Giauque 45:13 I'm always pulling the two columns together right?
+
+Joel Ortiz 45:15 OK.
+
+Sherilyn Giauque 45:16 So the columns are there as much for. Rooms or facility? Or test, you know, certain testing that I do. So it's kind of that, but I I understand exactly what you're asking for and I will like again do research on the new scheduler and make sure that what you're asking for is going to be possible.
+
+Joel Ortiz 45:38 But am I the only one to ask for this? Is, is, is.
+
+Sherilyn Giauque 45:42 You're the only one that's ever asked me to get rid of the pages.
+
+Joel Ortiz 45:46 OK. Interesting. That's very interesting.
+
+And maybe because we're so it's, I would imagine life stance must it must be having a hell of a time.
+
+Sherilyn Giauque 45:56 So the difference? The difference with life stance is that they are more facility office key level driven. So they're schedule isn't really a bunch of facilities and a bunch of providers. It's at this facility here in my providers, in this office key, so they're more contained.
+
+Tammy Svedin 46:21 Well, it's not backing down by location in an office key versus having several facilities in the same one. That we're.
+
+Sherilyn Giauque 46:29 Yes, there they're more. Umm, more office keys because they they're entities, are they?
+
+Joel Ortiz 46:34 So they have a ton of office keys. In other words, they have a bagillion.
+
+Sherilyn Giauque 46:39 They have a lot of office keys.
+
+Joel Ortiz 46:42 All my heart, my God.
+
+Sherilyn Giauque 46:43 I know so that was the way they decided and it it works for their business model, right? Their business model leaves those facilities more self contained. Yours is. Yours is not that yours is more. Performance gains by doing the same thing across all of them, right?
+
+Putting them all together, which I like, you know your business model makes more sense to me. But but life stance is doing well with it, right? So.
+
+Joel Ortiz 47:10 Yeah. No, I I I do too. I would imagine having that many office keys. I would probably at that point I would quit that point. I would tell Tim I'm out.
+
+Sherilyn Giauque 47:18 Yeah.
+
+Joel Ortiz 47:19 I'm I'm not working. Here you guys are crazy. I would honestly 150% quit if I had to manage an office key per facility, I would quit.
+
+Sherilyn Giauque 47:32 And they do have some like, they do have more than one facility in an office key fairly often, but it's not the size that you guys do.
+
+Joel Ortiz 47:44 Yeah.
+
+Sherilyn Giauque 47:44 Yep. Yeah, they have a lot more info skies and they have more.
+
+Joel Ortiz 47:47 OK.
+
+Sherilyn Giauque 47:49 They have more than one CBOI mean, you know, to manage all them.
+
+Joel Ortiz 47:53 Yeah. Yeah. I just think we need to get away from pages if we're gonna really.
+
+Sherilyn Giauque 47:57 OK.
+
+Joel Ortiz 47:58 If we're gonna try to match the same functionality that you have in what you would call the golden standard epic Cerner Eclinical works Meditech expanse. I've never seen an echo with pages until I started working with AMD. I was. It took me a while to wrap my head around it. I was like, why do you need a column for every provider? Wait, why do I need pages? Ohh my God, these are OK. These are facilities in each page, but I can only put 4 providers per subsection or per page. I mean, it was it took me a while. And then from a training perspective, training our front office coordinators, they they just about wanna quit on the spot. Sometimes it's pretty rough, especially the ones that have to support multiple practices, because again, it would at that point require them to memorize which page each provider's on, and so on and so forth. Forth and it's not there's no easy way to search up that information. There's not.
+
+Sherilyn Giauque 48:51 So one thing that you keep saying is that you can only have 4 per page and that's not true.
+
+Joel Ortiz 48:56 How many can we have?
+
+Sherilyn Giauque 48:58 I have one one educational facility that has probably 100 providers in a page. They just have added them.
+
+Joel Ortiz 49:05 So how would it work that I'm trying to figure out? Maybe this is something that was configured before? I don't. Well, obviously it was something that was configured before I joined, but I'm wondering if it was a legacy limitation. Did at some point AMD have a limitation on pages and then it moved to not having a limitation. I'm trying to figure out myself why they have it configured this way, because for example ST1ST234.
+
+Sherilyn Giauque 49:26 Umm. So in our original.
+
+Tammy Svedin 49:31 I think we didn't have as we didn't have as many groups I think, but I think the pages were still the same.
+
+Sherilyn Giauque 49:38 Well, in our so this the scheduler that we have today, we call it legacy now because we're building the new one. But there was a scheduler before this one that was, yeah. So basically we took it and we did it into angular instead of in the legacy code that we had before. The functionality for the most part stayed the same, but we did allow more than five columns per page at that point, but that was probably I don't think there's a limit now.
+
+Joel Ortiz 50:00
+
+So what's the limit? Now I so we would just be able to scroll left and right if we had more.
+
+Sherilyn Giauque 50:05 The more you can scroll up and write yes, now knowing that the more data you put in there, it may slow it down a little bit, which is one of the reasons we're doing. The new one is to be more performant, right?
+
+Joel Ortiz 50:19 Yeah.
+
+Sherilyn Giauque 50:19 For sure. Umm, so I don't think I would do 200 and I don't know how many providers you have and all of that on but but you can have more than four.
+
+Tammy Svedin 50:27 I'm trying to.
+
+Sherilyn Giauque 50:30 I'm just saying that.
+
+Joel Ortiz 50:31 Yeah, 1234. I'll tell you right now. 8 uh 1624, yeah, we have an office with about 40 providers that would kind of be annoying to have to roll through, but it could at least fit in one page.
+
+Sherilyn Giauque 50:46 Yeah. Well, in the what would be cool is if you could say I'm searching for this provider and it moved over to the right column for you.
+
+Joel Ortiz 50:51
+
+It's just. But you.
+
+Sherilyn Giauque 50:59 But I know you're trying to get rid of them completely, so let me again.
+
+Joel Ortiz 51:01 Yeah. Yeah, that's not even needed.
+
+Sherilyn Giauque 51:03 Let me figure out if the new one is gonna be able to to accommodate what you're talking about.
+
+Joel Ortiz 51:06 Yeah. Yeah. Let me know what you find just so I can start mentally preparing myself for for what that might look like.
+
+Tammy Svedin 51:11 So it says that the appointment scheduler contain can contain up to 20 pages with unlimited columns per page.
+
+Sherilyn Giauque 51:12 OK.
+
+Tammy Svedin 51:20 Pages can also be added to a group and then you can have up to 10 groups.
+
+Joel Ortiz 51:23 So unlimited columns per page.
+
+Tammy Svedin 51:26
+
+Right. That's what it says. Yep.
+
+Joel Ortiz 51:28 OK.
+
+Sherilyn Giauque 51:31 So I'm not sure if that would help you at all to go and change that.
+
+Joel Ortiz 51:35 I mean, I think I'm gonna start. I mean, I don't know how long the scheduler revamp is gonna take. I'm assuming it's not gonna happen this year, so knowing that and it's and this is not a job, but I'm I'm assuming it probably won't come out next year either, so I'm gonna work under that assumption because I think in my next cause, I've done a lot of cleanup. I mean, we had when I first joined we had 102 administrators just so that you understand Sharon, that's the type of craziness that we were dealing with here.
+
+Sherilyn Giauque 52:02 OK.
+
+Joel Ortiz 52:04 So from 102 we now have I think like 7.
+
+Sherilyn Giauque 52:05 Right.
+
+Joel Ortiz 52:08 So there was a lot of ridiculousness going on.
+
+Sherilyn Giauque 52:08 OK.
+
+Joel Ortiz 52:11
+
+We had to standardize and make things match across the board and so on and so forth, but I think I might be working on next is simplifying our pages so that there is one instead of having 1234567 pages for one facility, I'd rather have all of those providers in one page and name each of those pages if facility name it just it doesn't really make sense. Right now, the way that it's set up it I'm I'm my mind is boggled. I'm fully boggled right now. I'm looking at this, but yeah, in a perfect world would be able to get rid of that altogether.
+
+Sherilyn Giauque 52:46 Yeah.
+
+Joel Ortiz 52:46 It just that be the perfect one.
+
+Sherilyn Giauque 52:47 OK. Well, let me so I'll do the research on the the new scheduler and get back to you and then yeah, and you could even try it in your test key you know and if you wanted, we could even.
+
+Joel Ortiz 52:53 OK.
+
+Sherilyn Giauque 53:02 Well, I was gonna say we could bring it down and do it down here, but the problem is that that is our dev environment is slower. So you wouldn't be able to compare it apples to apples, so that may not have as much but.
+
+Joel Ortiz 53:12 Yeah.
+
+Sherilyn Giauque 53:13
+
+But yeah, I think you know, setting it up and and seeing what it's gonna look like and how it's gonna function and having a few people kind of work through and see if it's improved. Because I feel like it would be but and and just as an interim until we can get the other.
+
+Joel Ortiz 53:25 Yeah, no. Now, because I'm not even asking you to get rid of columns. Sure, stay stick with columns if that's a legacy thing and you guys can't get rid of some columns. It is what it is, but with my idea it would still work perfectly fine, because let's say that a provider is on multiple columns, which can sometimes happen well if you have a provider filter and you have the facility filter and you're filtering for a provider, it'll show you all the columns at that provider is attached to.
+
+Sherilyn Giauque 53:47 Yeah.
+
+Joel Ortiz 53:55 That's what should pop up, you know?
+
+Sherilyn Giauque 53:56 Yep, Yep.
+
+Joel Ortiz 53:57 And so yeah, alright well.
+
+Sherilyn Giauque 54:01 Yeah. Let me let me get back to the scheduler team and just cause I understand what you're asking for. I can try to get you know to show you how that's gonna help, OK.
+
+Joel Ortiz 54:11
+
+Love it. Alright. Well, thank you so much for your time today and I'm just took you on a wild ride, but.
+
+Sherilyn Giauque 54:17 No, this so these kind of conversations always help. They're always good. We always get stuff out of them, so thank you for your time today.
+
+Joel Ortiz 54:24 So awesome. Awesome.
+
+Joel Ortiz 54:27 Well, you all have a fantastic weekend. Bye.
+
+Tammy Svedin 54:29 You do the same.
+
+Sherilyn Giauque 54:29 Take you too.
+
+Tammy Svedin 54:31 Thanks Joe.
+
+Sherilyn Giauque 54:31 See you.
+
+Joel Ortiz left the meeting
+
+Sherilyn Giauque left the meeting

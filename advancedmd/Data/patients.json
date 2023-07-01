@@ -1,0 +1,301 @@
+{"patients": [
+    {
+        "patientId": "P001",
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-05-15",
+        "gender": "Male",
+        "contactInformation": {
+            "email": "johndoe@example.com",
+            "phone": "1234567890",
+            "address": "123 Main St, City"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-03-10T09:30:00Z",
+                "symptoms": "Fever, cough",
+                "diagnosis": "Influenza",
+                "treatment": "Antiviral medication",
+                "doctor": "Dr. Smith",
+                "notes": "Patient responded well to treatment."
+            },
+            {
+                "visitDate": "2022-05-20T14:15:00Z",
+                "symptoms": "Headache, dizziness",
+                "diagnosis": "Migraine",
+                "treatment": "Pain relievers",
+                "doctor": "Dr. Johnson",
+                "notes": "Patient advised to manage stress."
+            }
+        ],
+        "referrals": [
+            {
+                "referralDate": "2022-03-15T13:45:00Z",
+                "referredTo": "Specialist A",
+                "reasonForReferral": "Suspected neurological condition",
+                "referralNotes": "Urgent referral requested."
+            }
+        ]
+    },
+    {
+        "patientId": "P002",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "dateOfBirth": "1985-09-25",
+        "gender": "Female",
+        "contactInformation": {
+            "email": "janesmith@example.com",
+            "phone": "9876543210",
+            "address": "456 Oak Ave, Town"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-07-05T11:00:00Z",
+                "symptoms": "Abdominal pain",
+                "diagnosis": "Gastritis",
+                "treatment": "Acid reducers",
+                "doctor": "Dr. Brown",
+                "notes": "Patient advised to follow a bland diet."
+            }
+        ],
+        "referrals": []
+    },
+    {
+        "patientId": "P003",
+        "firstName": "Michael",
+        "lastName": "Johnson",
+        "dateOfBirth": "1978-12-03",
+        "gender": "Male",
+        "contactInformation": {
+            "email": "michaeljohnson@example.com",
+            "phone": "5551234567",
+            "address": "789 Elm St, Village"
+        },
+        "medicalHistory": [],
+        "referrals": [
+            {
+                "referralDate": "2022-09-18T16:30:00Z",
+                "referredTo": "Specialist B",
+                "reasonForReferral": "Chronic back pain",
+                "referralNotes": "Patient needs a spine evaluation."
+            },
+            {
+                "referralDate": "2022-12-01T10:15:00Z",
+                "referredTo": "Therapist A",
+                "reasonForReferral": "Anxiety management",
+                "referralNotes": "Patient experiencing high levels of stress."
+            }
+        ]
+    },
+    {
+        "patientId": "P004",
+        "firstName": "Emily",
+        "lastName": "Davis",
+        "dateOfBirth": "1995-02-08",
+        "gender": "Female",
+        "contactInformation": {
+            "email": "emilydavis@example.com",
+            "phone": "3217896540",
+            "address": "987 Pine St, County"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-04-30T13:00:00Z",
+                "symptoms": "Rash, itching",
+                "diagnosis": "Allergic reaction",
+                "treatment": "Antihistamines",
+                "doctor": "Dr. White",
+                "notes": "Patient advised to avoid allergen."
+            },
+            {
+                "visitDate": "2022-06-15T09:45:00Z",
+                "symptoms": "Sore throat, fever",
+                "diagnosis": "Strep throat",
+                "treatment": "Antibiotics",
+                "doctor": "Dr. Green",
+                "notes": "Patient completed antibiotic course."
+            }
+        ],
+        "referrals": []
+    },
+    {
+        "patientId": "P005",
+        "firstName": "David",
+        "lastName": "Wilson",
+        "dateOfBirth": "2000-11-12",
+        "gender": "Other",
+        "contactInformation": {
+            "email": "davidwilson@example.com",
+            "phone": "9990001111",
+            "address": "555 Maple Dr, City"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-08-20T16:20:00Z",
+                "symptoms": "Fatigue, joint pain",
+                "diagnosis": "Rheumatoid arthritis",
+                "treatment": "Immunosuppressants",
+                "doctor": "Dr. Taylor",
+                "notes": "Patient's condition is stable."
+            }
+        ],
+        "referrals": [
+            {
+                "referralDate": "2022-09-02T09:00:00Z",
+                "referredTo": "Specialist C",
+                "reasonForReferral": "Further evaluation of symptoms",
+                "referralNotes": "Patient needs additional tests."
+            },
+            {
+                "referralDate": "2022-10-10T14:30:00Z",
+                "referredTo": "Physical therapist A",
+                "reasonForReferral": "Joint mobility exercises",
+                "referralNotes": "Patient requires rehabilitation."
+            }
+        ]
+    },
+    {
+        "patientId": "P006",
+        "firstName": "Sarah",
+        "lastName": "Miller",
+        "dateOfBirth": "1982-07-20",
+        "gender": "Female",
+        "contactInformation": {
+            "email": "sarahmiller@example.com",
+            "phone": "5557891234",
+            "address": "789 Oak St, Town"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-09-05T10:30:00Z",
+                "symptoms": "Chest pain, shortness of breath",
+                "diagnosis": "Angina",
+                "treatment": "Nitroglycerin",
+                "doctor": "Dr. Anderson",
+                "notes": "Patient advised to manage stress and follow a heart-healthy diet."
+            }
+        ],
+        "referrals": [
+            {
+                "referralDate": "2022-09-10T11:45:00Z",
+                "referredTo": "Cardiologist A",
+                "reasonForReferral": "Further evaluation of cardiac condition",
+                "referralNotes": "Patient needs cardiac stress test."
+            }
+        ]
+    },
+    {
+        "patientId": "P007",
+        "firstName": "Robert",
+        "lastName": "Johnson",
+        "dateOfBirth": "1970-04-12",
+        "gender": "Male",
+        "contactInformation": {
+            "email": "robertjohnson@example.com",
+            "phone": "7771234567",
+            "address": "123 Elm St, City"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-06-20T14:00:00Z",
+                "symptoms": "High blood pressure",
+                "diagnosis": "Hypertension",
+                "treatment": "Blood pressure medication",
+                "doctor": "Dr. Martinez",
+                "notes": "Patient advised to monitor blood pressure regularly."
+            },
+            {
+                "visitDate": "2022-12-05T08:30:00Z",
+                "symptoms": "Cough, congestion",
+                "diagnosis": "Common cold",
+                "treatment": "Symptomatic relief",
+                "doctor": "Dr. Adams",
+                "notes": "Patient recovered within a week."
+            }
+        ],
+        "referrals": []
+    },
+    {
+        "patientId": "P008",
+        "firstName": "Amy",
+        "lastName": "Roberts",
+        "dateOfBirth": "1998-10-18",
+        "gender": "Female",
+        "contactInformation": {
+            "email": "amyroberts@example.com",
+            "phone": "4445556666",
+            "address": "456 Oak St, Town"
+        },
+        "medicalHistory": [],
+        "referrals": [
+            {
+                "referralDate": "2022-11-10T15:30:00Z",
+                "referredTo": "Dermatologist A",
+                "reasonForReferral": "Skin rash evaluation",
+                "referralNotes": "Patient needs a biopsy for further diagnosis."
+            }
+        ]
+    },
+    {
+        "patientId": "P009",
+        "firstName": "Daniel",
+        "lastName": "Taylor",
+        "dateOfBirth": "1987-03-25",
+        "gender": "Male",
+        "contactInformation": {
+            "email": "danieltaylor@example.com",
+            "phone": "1112223333",
+            "address": "789 Pine St, County"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-08-10T10:00:00Z",
+                "symptoms": "Back pain, muscle stiffness",
+                "diagnosis": "Spondylosis",
+                "treatment": "Physical therapy",
+                "doctor": "Dr. Wilson",
+                "notes": "Patient showed improvement with regular exercises."
+            }
+        ],
+        "referrals": []
+    },
+    {
+        "patientId": "P010",
+        "firstName": "Olivia",
+        "lastName": "Clark",
+        "dateOfBirth": "1993-12-01",
+        "gender": "Female",
+        "contactInformation": {
+            "email": "oliviaclark@example.com",
+            "phone": "9998887777",
+            "address": "555 Maple Dr, City"
+        },
+        "medicalHistory": [
+            {
+                "visitDate": "2022-07-25T09:15:00Z",
+                "symptoms": "Fatigue, weight gain",
+                "diagnosis": "Hypothyroidism",
+                "treatment": "Thyroid hormone replacement",
+                "doctor": "Dr. Baker",
+                "notes": "Patient's thyroid levels are now stable."
+            },
+            {
+                "visitDate": "2023-02-05T13:30:00Z",
+                "symptoms": "Nausea, vomiting",
+                "diagnosis": "Gastroenteritis",
+                "treatment": "Fluids, rest",
+                "doctor": "Dr. Garcia",
+                "notes": "Patient recovered within a few days."
+            }
+        ],
+        "referrals": [
+            {
+                "referralDate": "2023-01-20T10:00:00Z",
+                "referredTo": "Gastroenterologist A",
+                "reasonForReferral": "Persistent gastrointestinal symptoms",
+                "referralNotes": "Patient needs a colonoscopy for further evaluation."
+            }
+        ]
+    }
+    
+]}
